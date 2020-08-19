@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Struct\bin\Debug\Struct.exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Struct\bin\Debug\Struct.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Struct\bin\Debug\Struct.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Struct\obj\Debug\Struct.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Struct\obj\Debug\Struct.pdb

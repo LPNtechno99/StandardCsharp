@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_1_(Split)\bin\Debug\Regex_1_(Split).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_1_(Split)\bin\Debug\Regex_1_(Split).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_1_(Split)\bin\Debug\Regex_1_(Split).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_1_(Split)\obj\Debug\Regex_1_(Split).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_1_(Split)\obj\Debug\Regex_1_(Split).pdb

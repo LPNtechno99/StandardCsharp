@@ -1,0 +1,6 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\getset\bin\Debug\getset.exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\getset\bin\Debug\getset.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\getset\bin\Debug\getset.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\getset\obj\Debug\getset.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\getset\obj\Debug\getset.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\getset\obj\Debug\getset.csprojResolveAssemblyReference.cache

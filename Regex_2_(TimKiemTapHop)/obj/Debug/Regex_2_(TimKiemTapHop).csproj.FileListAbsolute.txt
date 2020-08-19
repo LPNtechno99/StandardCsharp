@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_2_(TimKiemTapHop)\bin\Debug\Regex_2_(TimKiemTapHop).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_2_(TimKiemTapHop)\bin\Debug\Regex_2_(TimKiemTapHop).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_2_(TimKiemTapHop)\bin\Debug\Regex_2_(TimKiemTapHop).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_2_(TimKiemTapHop)\obj\Debug\Regex_2_(TimKiemTapHop).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_2_(TimKiemTapHop)\obj\Debug\Regex_2_(TimKiemTapHop).pdb

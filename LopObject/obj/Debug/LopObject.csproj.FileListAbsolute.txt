@@ -1,0 +1,6 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopObject\bin\Debug\LopObject.exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopObject\bin\Debug\LopObject.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopObject\bin\Debug\LopObject.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopObject\obj\Debug\LopObject.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopObject\obj\Debug\LopObject.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopObject\obj\Debug\LopObject.csprojResolveAssemblyReference.cache

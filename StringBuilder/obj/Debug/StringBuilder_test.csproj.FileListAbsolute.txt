@@ -1,0 +1,11 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\StringBuilder\bin\Debug\StringBuilder.exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\StringBuilder\bin\Debug\StringBuilder.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\StringBuilder\bin\Debug\StringBuilder.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\StringBuilder\obj\Debug\StringBuilder.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\StringBuilder\obj\Debug\StringBuilder.pdb
+D:\MyProject\Project ca nhan\ContructorTest\StringBuilder\bin\Debug\StringBuilder.exe.config
+D:\MyProject\Project ca nhan\ContructorTest\StringBuilder\bin\Debug\StringBuilder.exe
+D:\MyProject\Project ca nhan\ContructorTest\StringBuilder\bin\Debug\StringBuilder.pdb
+D:\MyProject\Project ca nhan\ContructorTest\StringBuilder\obj\Debug\StringBuilder_test.csprojResolveAssemblyReference.cache
+D:\MyProject\Project ca nhan\ContructorTest\StringBuilder\obj\Debug\StringBuilder.exe
+D:\MyProject\Project ca nhan\ContructorTest\StringBuilder\obj\Debug\StringBuilder.pdb

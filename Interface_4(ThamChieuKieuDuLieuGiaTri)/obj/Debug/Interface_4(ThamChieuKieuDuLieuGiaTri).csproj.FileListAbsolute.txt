@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_4(ThamChieuKieuDuLieuGiaTri)\bin\Debug\Interface_4(ThamChieuKieuDuLieuGiaTri).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_4(ThamChieuKieuDuLieuGiaTri)\bin\Debug\Interface_4(ThamChieuKieuDuLieuGiaTri).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_4(ThamChieuKieuDuLieuGiaTri)\bin\Debug\Interface_4(ThamChieuKieuDuLieuGiaTri).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_4(ThamChieuKieuDuLieuGiaTri)\obj\Debug\Interface_4(ThamChieuKieuDuLieuGiaTri).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_4(ThamChieuKieuDuLieuGiaTri)\obj\Debug\Interface_4(ThamChieuKieuDuLieuGiaTri).pdb

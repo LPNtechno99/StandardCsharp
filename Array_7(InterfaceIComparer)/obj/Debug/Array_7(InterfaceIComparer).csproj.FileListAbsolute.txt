@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_7(InterfaceIComparer)\bin\Debug\Array_7(InterfaceIComparer).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_7(InterfaceIComparer)\bin\Debug\Array_7(InterfaceIComparer).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_7(InterfaceIComparer)\bin\Debug\Array_7(InterfaceIComparer).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_7(InterfaceIComparer)\obj\Debug\Array_7(InterfaceIComparer).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_7(InterfaceIComparer)\obj\Debug\Array_7(InterfaceIComparer).pdb

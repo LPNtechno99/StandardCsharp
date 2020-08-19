@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_5(Interface_IEnumerable)\bin\Debug\Array_5(Interface_IEnumerable).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_5(Interface_IEnumerable)\bin\Debug\Array_5(Interface_IEnumerable).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_5(Interface_IEnumerable)\bin\Debug\Array_5(Interface_IEnumerable).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_5(Interface_IEnumerable)\obj\Debug\Array_5(Interface_IEnumerable).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_5(Interface_IEnumerable)\obj\Debug\Array_5(Interface_IEnumerable).pdb

@@ -1,0 +1,12 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\KeThua\bin\Debug\KeThua.exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\KeThua\bin\Debug\KeThua.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\KeThua\bin\Debug\KeThua.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\KeThua\obj\Debug\KeThua.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\KeThua\obj\Debug\KeThua.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\KeThua\obj\Debug\KeThua.csprojResolveAssemblyReference.cache
+D:\MyProject\Project ca nhan\ContructorTest\KeThua\bin\Debug\KeThua.exe.config
+D:\MyProject\Project ca nhan\ContructorTest\KeThua\bin\Debug\KeThua.exe
+D:\MyProject\Project ca nhan\ContructorTest\KeThua\bin\Debug\KeThua.pdb
+D:\MyProject\Project ca nhan\ContructorTest\KeThua\obj\Debug\KeThua.csprojResolveAssemblyReference.cache
+D:\MyProject\Project ca nhan\ContructorTest\KeThua\obj\Debug\KeThua.exe
+D:\MyProject\Project ca nhan\ContructorTest\KeThua\obj\Debug\KeThua.pdb

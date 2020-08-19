@@ -1,0 +1,11 @@
+c:\users\nampc\documents\visual studio 2017\Projects\ContructorTest\ContructorTest\bin\Debug\ContructorTest.exe.config
+c:\users\nampc\documents\visual studio 2017\Projects\ContructorTest\ContructorTest\bin\Debug\ContructorTest.exe
+c:\users\nampc\documents\visual studio 2017\Projects\ContructorTest\ContructorTest\bin\Debug\ContructorTest.pdb
+c:\users\nampc\documents\visual studio 2017\Projects\ContructorTest\ContructorTest\obj\Debug\ContructorTest.exe
+c:\users\nampc\documents\visual studio 2017\Projects\ContructorTest\ContructorTest\obj\Debug\ContructorTest.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\ContructorTest\bin\Debug\ContructorTest.exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\ContructorTest\bin\Debug\ContructorTest.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\ContructorTest\bin\Debug\ContructorTest.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\ContructorTest\obj\Debug\ContructorTest.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\ContructorTest\obj\Debug\ContructorTest.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\ContructorTest\obj\Debug\ContructorTest.csprojResolveAssemblyReference.cache

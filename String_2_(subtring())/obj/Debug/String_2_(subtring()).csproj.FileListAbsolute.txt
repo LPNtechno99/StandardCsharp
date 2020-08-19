@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\String_2_(subtring())\bin\Debug\String_2_(subtring()).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\String_2_(subtring())\bin\Debug\String_2_(subtring()).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\String_2_(subtring())\bin\Debug\String_2_(subtring()).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\String_2_(subtring())\obj\Debug\String_2_(subtring()).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\String_2_(subtring())\obj\Debug\String_2_(subtring()).pdb

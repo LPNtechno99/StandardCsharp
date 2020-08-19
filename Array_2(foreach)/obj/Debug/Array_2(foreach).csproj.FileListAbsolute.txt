@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_2(foreach)\bin\Debug\Array_2(foreach).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_2(foreach)\bin\Debug\Array_2(foreach).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_2(foreach)\bin\Debug\Array_2(foreach).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_2(foreach)\obj\Debug\Array_2(foreach).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array_2(foreach)\obj\Debug\Array_2(foreach).pdb

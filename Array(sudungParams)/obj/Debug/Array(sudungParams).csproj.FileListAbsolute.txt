@@ -1,0 +1,6 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array(sudungParams)\bin\Debug\Array(sudungParams).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array(sudungParams)\bin\Debug\Array(sudungParams).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array(sudungParams)\bin\Debug\Array(sudungParams).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array(sudungParams)\obj\Debug\Array(sudungParams).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array(sudungParams)\obj\Debug\Array(sudungParams).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Array(sudungParams)\obj\Debug\Array(sudungParams).csprojResolveAssemblyReference.cache

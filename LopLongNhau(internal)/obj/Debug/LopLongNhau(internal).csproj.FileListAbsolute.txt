@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopLongNhau(internal)\bin\Debug\LopLongNhau(internal).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopLongNhau(internal)\bin\Debug\LopLongNhau(internal).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopLongNhau(internal)\bin\Debug\LopLongNhau(internal).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopLongNhau(internal)\obj\Debug\LopLongNhau(internal).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopLongNhau(internal)\obj\Debug\LopLongNhau(internal).pdb

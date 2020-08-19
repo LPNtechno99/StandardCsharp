@@ -1,0 +1,6 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Delegate_1_\bin\Debug\Delegate_1_.exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Delegate_1_\bin\Debug\Delegate_1_.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Delegate_1_\bin\Debug\Delegate_1_.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Delegate_1_\obj\Debug\Delegate_1_.csprojResolveAssemblyReference.cache
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Delegate_1_\obj\Debug\Delegate_1_.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Delegate_1_\obj\Debug\Delegate_1_.pdb

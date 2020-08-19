@@ -1,0 +1,6 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopTruuTuong(abstract)\bin\Debug\LopTruuTuong(abstract).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopTruuTuong(abstract)\bin\Debug\LopTruuTuong(abstract).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopTruuTuong(abstract)\bin\Debug\LopTruuTuong(abstract).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopTruuTuong(abstract)\obj\Debug\LopTruuTuong(abstract).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopTruuTuong(abstract)\obj\Debug\LopTruuTuong(abstract).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\LopTruuTuong(abstract)\obj\Debug\LopTruuTuong(abstract).csprojResolveAssemblyReference.cache

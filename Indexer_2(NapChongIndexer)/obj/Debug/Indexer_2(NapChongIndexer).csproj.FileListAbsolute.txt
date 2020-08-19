@@ -1,0 +1,10 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Indexer_2(NapChongIndexer)\bin\Debug\Indexer_2(NapChongIndexer).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Indexer_2(NapChongIndexer)\bin\Debug\Indexer_2(NapChongIndexer).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Indexer_2(NapChongIndexer)\bin\Debug\Indexer_2(NapChongIndexer).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Indexer_2(NapChongIndexer)\obj\Debug\Indexer_2(NapChongIndexer).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Indexer_2(NapChongIndexer)\obj\Debug\Indexer_2(NapChongIndexer).pdb
+D:\MyProject\Project ca nhan\ContructorTest\Indexer_2(NapChongIndexer)\bin\Debug\Indexer_2(NapChongIndexer).exe.config
+D:\MyProject\Project ca nhan\ContructorTest\Indexer_2(NapChongIndexer)\bin\Debug\Indexer_2(NapChongIndexer).exe
+D:\MyProject\Project ca nhan\ContructorTest\Indexer_2(NapChongIndexer)\bin\Debug\Indexer_2(NapChongIndexer).pdb
+D:\MyProject\Project ca nhan\ContructorTest\Indexer_2(NapChongIndexer)\obj\Debug\Indexer_2(NapChongIndexer).exe
+D:\MyProject\Project ca nhan\ContructorTest\Indexer_2(NapChongIndexer)\obj\Debug\Indexer_2(NapChongIndexer).pdb

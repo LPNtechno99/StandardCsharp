@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_4_(CaptureCollection)\bin\Debug\Regex_4_(CaptureCollection).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_4_(CaptureCollection)\bin\Debug\Regex_4_(CaptureCollection).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_4_(CaptureCollection)\bin\Debug\Regex_4_(CaptureCollection).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_4_(CaptureCollection)\obj\Debug\Regex_4_(CaptureCollection).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_4_(CaptureCollection)\obj\Debug\Regex_4_(CaptureCollection).pdb

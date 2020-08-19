@@ -1,0 +1,6 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\SaoChepConstructor\bin\Debug\SaoChepConstructor.exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\SaoChepConstructor\bin\Debug\SaoChepConstructor.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\SaoChepConstructor\bin\Debug\SaoChepConstructor.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\SaoChepConstructor\obj\Debug\SaoChepConstructor.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\SaoChepConstructor\obj\Debug\SaoChepConstructor.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\SaoChepConstructor\obj\Debug\SaoChepConstructor.csprojResolveAssemblyReference.cache

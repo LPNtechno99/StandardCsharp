@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_2(ket hop va mo giong giao dien)\bin\Debug\Interface_2(ket hop va mo giong giao dien).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_2(ket hop va mo giong giao dien)\bin\Debug\Interface_2(ket hop va mo giong giao dien).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_2(ket hop va mo giong giao dien)\bin\Debug\Interface_2(ket hop va mo giong giao dien).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_2(ket hop va mo giong giao dien)\obj\Debug\Interface_2(ket hop va mo giong giao dien).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_2(ket hop va mo giong giao dien)\obj\Debug\Interface_2(ket hop va mo giong giao dien).pdb

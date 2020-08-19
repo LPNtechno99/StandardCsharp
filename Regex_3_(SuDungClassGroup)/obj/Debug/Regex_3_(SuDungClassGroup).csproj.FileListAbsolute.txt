@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_3_(SuDungClassGroup)\bin\Debug\Regex_3_(SuDungClassGroup).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_3_(SuDungClassGroup)\bin\Debug\Regex_3_(SuDungClassGroup).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_3_(SuDungClassGroup)\bin\Debug\Regex_3_(SuDungClassGroup).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_3_(SuDungClassGroup)\obj\Debug\Regex_3_(SuDungClassGroup).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Regex_3_(SuDungClassGroup)\obj\Debug\Regex_3_(SuDungClassGroup).pdb

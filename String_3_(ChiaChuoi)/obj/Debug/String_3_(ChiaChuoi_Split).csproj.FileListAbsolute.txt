@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\String_3_(ChiaChuoi)\bin\Debug\String_3_(ChiaChuoi).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\String_3_(ChiaChuoi)\bin\Debug\String_3_(ChiaChuoi).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\String_3_(ChiaChuoi)\bin\Debug\String_3_(ChiaChuoi).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\String_3_(ChiaChuoi)\obj\Debug\String_3_(ChiaChuoi).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\String_3_(ChiaChuoi)\obj\Debug\String_3_(ChiaChuoi).pdb

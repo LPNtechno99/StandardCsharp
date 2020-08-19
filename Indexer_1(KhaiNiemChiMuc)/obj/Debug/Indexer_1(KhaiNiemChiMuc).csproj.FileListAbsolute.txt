@@ -1,0 +1,11 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Indexer_1(KhaiNiemChiMuc)\bin\Debug\Indexer_1(KhaiNiemChiMuc).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Indexer_1(KhaiNiemChiMuc)\bin\Debug\Indexer_1(KhaiNiemChiMuc).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Indexer_1(KhaiNiemChiMuc)\bin\Debug\Indexer_1(KhaiNiemChiMuc).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Indexer_1(KhaiNiemChiMuc)\obj\Debug\Indexer_1(KhaiNiemChiMuc).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Indexer_1(KhaiNiemChiMuc)\obj\Debug\Indexer_1(KhaiNiemChiMuc).pdb
+D:\MyProject\Project ca nhan\ContructorTest\Indexer_1(KhaiNiemChiMuc)\bin\Debug\Indexer_1(KhaiNiemChiMuc).exe.config
+D:\MyProject\Project ca nhan\ContructorTest\Indexer_1(KhaiNiemChiMuc)\bin\Debug\Indexer_1(KhaiNiemChiMuc).exe
+D:\MyProject\Project ca nhan\ContructorTest\Indexer_1(KhaiNiemChiMuc)\bin\Debug\Indexer_1(KhaiNiemChiMuc).pdb
+D:\MyProject\Project ca nhan\ContructorTest\Indexer_1(KhaiNiemChiMuc)\obj\Debug\Indexer_1(KhaiNiemChiMuc).csprojResolveAssemblyReference.cache
+D:\MyProject\Project ca nhan\ContructorTest\Indexer_1(KhaiNiemChiMuc)\obj\Debug\Indexer_1(KhaiNiemChiMuc).exe
+D:\MyProject\Project ca nhan\ContructorTest\Indexer_1(KhaiNiemChiMuc)\obj\Debug\Indexer_1(KhaiNiemChiMuc).pdb

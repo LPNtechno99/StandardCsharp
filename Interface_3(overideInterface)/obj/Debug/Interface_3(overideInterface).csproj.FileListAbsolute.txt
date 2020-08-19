@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_3(overideInterface)\bin\Debug\Interface_3(overideInterface).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_3(overideInterface)\bin\Debug\Interface_3(overideInterface).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_3(overideInterface)\bin\Debug\Interface_3(overideInterface).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_3(overideInterface)\obj\Debug\Interface_3(overideInterface).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_3(overideInterface)\obj\Debug\Interface_3(overideInterface).pdb

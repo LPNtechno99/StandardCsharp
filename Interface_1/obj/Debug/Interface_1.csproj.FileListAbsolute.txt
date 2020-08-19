@@ -1,0 +1,6 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_1\bin\Debug\Interface_1.exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_1\bin\Debug\Interface_1.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_1\bin\Debug\Interface_1.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_1\obj\Debug\Interface_1.exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_1\obj\Debug\Interface_1.pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Interface_1\obj\Debug\Interface_1.csprojResolveAssemblyReference.cache

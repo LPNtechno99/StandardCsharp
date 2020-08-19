@@ -1,0 +1,5 @@
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Stack(NganXep)\bin\Debug\Stack(NganXep).exe.config
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Stack(NganXep)\bin\Debug\Stack(NganXep).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Stack(NganXep)\bin\Debug\Stack(NganXep).pdb
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Stack(NganXep)\obj\Debug\Stack(NganXep).exe
+D:\Local Disk F_742018351\c#\CONSOLE\ContructorTest\Stack(NganXep)\obj\Debug\Stack(NganXep).pdb
